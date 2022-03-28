@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import utils
 webcam = False
-path = './static/Test1.jpeg'
+path = 'C:\\Users\\siddh\\OneDrive\\Desktop\\Siddharth\\cv\\cvProjects\\ObjSize\\static\\Test3.jpeg'
 vid = cv2.VideoCapture(0)
 vid.set(10, 160)
 vid.set(3, 1920)
